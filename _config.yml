@@ -1,6 +1,6 @@
 plugins:
   - jekyll-relative-links
-theme: jekyll-theme-tactile
+remote_theme: poole/lanyon
 title: Saptarshi Chakraborty
 relative_links:
   enabled: true
