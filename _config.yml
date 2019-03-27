@@ -1,3 +1,5 @@
+plugins:
+  - jekyll-relative-links
 theme: jekyll-theme-minimal
 title: Welcome to Saptarshi Chakraborty's homepage!
 relative_links:
