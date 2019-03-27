@@ -5,5 +5,6 @@ title: Welcome to Saptarshi Chakraborty's homepage!
 relative_links:
   enabled: true
   collections: true
+fontsize: 14pt
 include:
   - publications.md
