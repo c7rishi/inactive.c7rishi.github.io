@@ -1,5 +1,5 @@
 
-[Home](index.md)
+[Home](about.md)
 
 # Publications
 
