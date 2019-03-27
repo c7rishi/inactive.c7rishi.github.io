@@ -1,7 +1,7 @@
 plugins:
   - jekyll-relative-links
 theme: jekyll-theme-tactile
-title: Welcome to Saptarshi Chakraborty's homepage!
+title: Saptarshi Chakraborty
 relative_links:
   enabled: true
   collections: true
