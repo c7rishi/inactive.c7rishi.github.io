@@ -1,3 +1,4 @@
+# Publications
 
 ## Methodological Research
 * **Chakraborty, S.**, Shen, R. and Begg C. B. Estimating Somatic Variant Richness in the Cancer Genome. *Submitted*.
