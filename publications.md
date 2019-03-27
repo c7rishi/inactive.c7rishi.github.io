@@ -1,4 +1,4 @@
-[About me](index.md)
+[Home](index.md)
 
 # Publications
 
