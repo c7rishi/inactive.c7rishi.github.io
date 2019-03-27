@@ -9,7 +9,7 @@
 * Maji, A., **Chakraborty, S.**, and Basu, A., (2017). Statistical Inference based on the Logarithmic Power Divergence. *Society For Application Of Statistics And Allied Sciences*, 2, 39–51. [Link]([http://www.sasaa.org/complete_journal/vol2__6.pdf](http://www.sasaa.org/complete_journal/vol2__6.pdf))
 
 # Computational Research
-* *Chakraborty, S.* and Wong, S. W. BAMBI: An R package for Fitting Bivariate Angular Mixture Models. *In revision*. [arXiv.](https://arxiv.org/abs/1708.07804)
+* **Chakraborty, S.** and Wong, S. W. BAMBI: An R package for Fitting Bivariate Angular Mixture Models. *In revision*. [arXiv.](https://arxiv.org/abs/1708.07804)
 
 # Interdisciplinary Research
 * Barnard, A. M., Wilcox, R., Forbes, S.C., Daniels, M. J., **Chakraborty, S.**, Lott, D., J., Senesac, C. R., Arora, H., Sweeny, L., Walter, G. H., and Vandenborne, K. H. E. MR biomarkers and predictive relationships to clinical function over 48 months in Duchenne muscular dystrophy. Submitted.
