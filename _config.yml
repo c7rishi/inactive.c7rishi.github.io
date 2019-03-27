@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal
 title: Welcome to Saptarshi Chakraborty's homepage!
+relative_links:
+  enabled: true
+  collections: true
 include:
   - publications.md
