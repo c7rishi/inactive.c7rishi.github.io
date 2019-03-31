@@ -1,10 +1,4 @@
----
-layout: page
-title: Publications
----
-
-
-[Home](about.md)
+[Home](index.md)
 
 # Publications
 
