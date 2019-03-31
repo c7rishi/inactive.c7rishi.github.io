@@ -22,4 +22,4 @@
 * Vaziri, S., Wilson, J., Abbatematteo, J., Kubilis, P., **Chakraborty, S.**, Kshitij, K., and Hoh, D. J. (2017). Predictive performance of the American College of Surgeons universal risk calculator in neurosurgical patients. *Journal of Neurosurgery*, 1-6.
 
 ## Software
-* [BAMBI]([https://cran.r-project.org/web/packages/BAMBI/index.html](https://cran.r-project.org/web/packages/BAMBI/index.html)): An R package for Bivariate Angular Mixture Models.
+* [BAMBI](https://cran.r-project.org/web/packages/BAMBI/index.html): An R package for Bivariate Angular Mixture Models.
