@@ -8,8 +8,8 @@
 * **Chakraborty, S.** and Wong, S. W.  Bayesian analysis of coupled cellular and nuclear trajectories for cell migration. *Submitted*.
 * **Chakraborty, S.** and Wong, S. W. On the circular correlation coefficients for bivariate von Mises distributions on a torus. [arXiv.](https://arxiv.org/abs/1804.08553)
 * **Chakraborty, S.** and Khare, K.  Consistent estimation of the spectrum of trace class data augmentation algorithms. *To appear in Bernoulli.* [arXiv.](https://arxiv.org/abs/1711.00572)
-* **Chakraborty, S.** and Khare, K. (2017). Convergence properties of Gibbs samplers for Bayesian probit regression with proper priors, *Electronic Journal of Statistics* 11, 177-210. [Link]([https://projecteuclid.org/euclid.ejs/1485939612](https://projecteuclid.org/euclid.ejs/1485939612))
-* Maji, A., **Chakraborty, S.**, and Basu, A., (2017). Statistical Inference based on the Logarithmic Power Divergence. *Society For Application Of Statistics And Allied Sciences*, 2, 39–51. [Link]([http://www.sasaa.org/complete_journal/vol2__6.pdf](http://www.sasaa.org/complete_journal/vol2__6.pdf))
+* **Chakraborty, S.** and Khare, K. (2017). Convergence properties of Gibbs samplers for Bayesian probit regression with proper priors, *Electronic Journal of Statistics* 11, 177-210. [Link](https://projecteuclid.org/euclid.ejs/1485939612)
+* Maji, A., **Chakraborty, S.**, and Basu, A., (2017). Statistical Inference based on the Logarithmic Power Divergence. *Society For Application Of Statistics And Allied Sciences*, 2, 39–51. [Link](http://www.sasaa.org/complete_journal/vol2__6.pdf)
 
 ## Computational
 * **Chakraborty, S.** and Wong, S. W. BAMBI: An R package for Fitting Bivariate Angular Mixture Models. *In revision*. [arXiv.](https://arxiv.org/abs/1708.07804)
