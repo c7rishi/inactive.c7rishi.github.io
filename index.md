@@ -1,3 +1,3 @@
-Welcome to my homepage!
+[About me](about.md)   
 
-[About me](about.md)    [Publications](publications.md)
+[Publications](publications.md)
