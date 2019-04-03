@@ -4,13 +4,13 @@ title: Publications
 
 [Home](index.md)
 
-# Publications
 
 
 
 
 
-## Methodological
+
+## Methodological Research
 * **Chakraborty, S.**, Shen, R. and Begg C. B. Estimating Somatic Variant Richness in the Cancer Genome. *Submitted*.
 * **Chakraborty, S.** and Su, Z. A comprehensive Bayesian framework for envelope models. *Submitted*.
 * **Chakraborty, S.** and Wong, S. W.  Bayesian analysis of coupled cellular and nuclear trajectories for cell migration. *Submitted*.
@@ -19,10 +19,10 @@ title: Publications
 * **Chakraborty, S.** and Khare, K. (2017). Convergence properties of Gibbs samplers for Bayesian probit regression with proper priors, *Electronic Journal of Statistics* 11, 177-210. [Link](https://projecteuclid.org/euclid.ejs/1485939612)
 * Maji, A., **Chakraborty, S.**, and Basu, A., (2017). Statistical Inference based on the Logarithmic Power Divergence. *Society For Application Of Statistics And Allied Sciences*, 2, 39–51. [Link](http://www.sasaa.org/complete_journal/vol2__6.pdf)
 
-## Computational
+## Computational Research
 * **Chakraborty, S.** and Wong, S. W. BAMBI: An R package for Fitting Bivariate Angular Mixture Models. *In revision*. [arXiv.](https://arxiv.org/abs/1708.07804)
 
-## Applied
+## Applied Research
 * Barnard, A. M., Wilcox, R., Forbes, S.C., Daniels, M. J., **Chakraborty, S.**, Lott, D., J., Senesac, C. R., Arora, H., Sweeny, L., Walter, G. H., and Vandenborne, K. H. E. MR biomarkers and predictive relationships to clinical function over 48 months in Duchenne muscular dystrophy. *Submitted*.
 * Rooney, W. D., Berlow, Y. A., Triplett, W. T., Forbes, S. C., Willcocks, R. J., Wang, D, Arora, H, Senesac, C, Lott, D. J., Finkel, R.,  Russman, B. S., Finanger, E. L., **Chakraborty, S.**, O’Brien, E, Moloney, B, Barnard, A, Sweeney, H. L,  PhD, Daniels, M. J., Walter, G. A., Vandenborne, K. Modeling Disease Trajectory in Duchenne Muscular Dystrophy. *Submitted*.
 * Vaziri, S., Awan, O., Porche, K., Scott, K., Sacks, P., Dru, A. B., **Chakraborty, S.**, Khare, K., Hoh, B., and Rahman, M. (2018). Reimbursement Patterns for Neurosurgery: Analysis of the NERVES Survey Results from 2011-2016. *Submitted*.
