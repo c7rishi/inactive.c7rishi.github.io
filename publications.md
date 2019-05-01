@@ -8,7 +8,7 @@ title: Publications
 
 ## Methodological Research
 
-* **Chakraborty, S.**, Shen, R. and Begg C. B. Estimating Somatic Variant Richness in the Cancer Genome. *Submitted*.
+* **Chakraborty, S.**, Begg, C. B. and Shen, R. Estimating Somatic Variant Richness in the Cancer Genome. *Submitted*.
 * **Chakraborty, S.** and Su, Z. A comprehensive Bayesian framework for envelope models. *Submitted*.
 * **Chakraborty, S.** and Wong, S. W.  Bayesian analysis of coupled cellular and nuclear trajectories for cell migration. *Submitted*.
 * **Chakraborty, S.** and Wong, S. W. On the circular correlation coefficients for bivariate von Mises distributions on a torus. [arXiv.](https://arxiv.org/abs/1804.08553)
@@ -19,7 +19,7 @@ title: Publications
 ## Computational Research
 * **Chakraborty, S.** and Wong, S. W. BAMBI: An R package for Fitting Bivariate Angular Mixture Models. *In revision*. [arXiv.](https://arxiv.org/abs/1708.07804)
 
-## Applied Collaborative Research
+## Collaborative Applied Research
 * Barnard, A. M., Wilcox, R., Forbes, S.C., Daniels, M. J., **Chakraborty, S.**, Lott, D., J., Senesac, C. R., Arora, H., Sweeny, L., Walter, G. H., and Vandenborne, K. H. E. MR biomarkers and predictive relationships to clinical function over 48 months in Duchenne muscular dystrophy. *Submitted*.
 * Rooney, W. D., Berlow, Y. A., Triplett, W. T., Forbes, S. C., Willcocks, R. J., Wang, D, Arora, H, Senesac, C, Lott, D. J., Finkel, R.,  Russman, B. S., Finanger, E. L., **Chakraborty, S.**, O’Brien, E, Moloney, B, Barnard, A, Sweeney, H. L,  PhD, Daniels, M. J., Walter, G. A., Vandenborne, K. Modeling Disease Trajectory in Duchenne Muscular Dystrophy. *Submitted*.
 * Vaziri, S., Awan, O., Porche, K., Scott, K., Sacks, P., Dru, A. B., **Chakraborty, S.**, Khare, K., Hoh, B., and Rahman, M. Reimbursement Patterns for Neurosurgery: Analysis of the NERVES Survey Results from 2011-2016. *Submitted*.
@@ -27,4 +27,5 @@ title: Publications
 * Vaziri, S., Wilson, J., Abbatematteo, J., Kubilis, P., **Chakraborty, S.**, Kshitij, K., and Hoh, D. J. (2017). Predictive performance of the American College of Surgeons universal risk calculator in neurosurgical patients. *Journal of Neurosurgery*, 1-6.
 
 ## Software
+* [variantprobs](https://github.com/c7rishi/variantprobs): An R package for estimating probabilities and expected numbers of mutations in the tumor genome.
 * [BAMBI](https://cran.r-project.org/web/packages/BAMBI/index.html): An R package for Bivariate Angular Mixture Models.
