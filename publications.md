@@ -8,7 +8,7 @@ title: Publications
 
 ## Methodological Research
 
-* **Chakraborty, S.**, Begg, C. B. and Shen, R. Estimating Somatic Variant Richness in the Cancer Genome. *Submitted*.
+* **Chakraborty, S.**, Begg, C. B. and Shen, R. Estimating Somatic Variant Richness in the Cancer Genome: Mining the Hidden Iceberg of Information. *Submitted*.
 * **Chakraborty, S.** and Su, Z. A comprehensive Bayesian framework for envelope models. *Submitted*.
 * **Chakraborty, S.** and Wong, S. W.  Bayesian analysis of coupled cellular and nuclear trajectories for cell migration. *Submitted*.
 * **Chakraborty, S.** and Wong, S. W. On the circular correlation coefficients for bivariate von Mises distributions on a torus. [arXiv.](https://arxiv.org/abs/1804.08553)
