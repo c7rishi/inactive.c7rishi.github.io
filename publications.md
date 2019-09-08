@@ -11,7 +11,7 @@ title: Publications
 * **Chakraborty, S.** and Khare, K. (2017). Convergence properties of Gibbs samplers for Bayesian probit regression with proper priors, *Electronic Journal of Statistics* 11, 177-210. [Link](https://projecteuclid.org/euclid.ejs/1485939612)
 * Maji, A., **Chakraborty, S.**, and Basu, A., (2017). Statistical Inference based on the Logarithmic Power Divergence. *Society For Application Of Statistics And Allied Sciences*, 2, 39–51. [Link](http://www.sasaa.org/complete_journal/vol2__6.pdf)
 * **Chakraborty, S.** and Khare, K. (2019).  Consistent estimation of the spectrum of trace class data augmentation algorithms. *To appear in Bernoulli.* [arXiv.](https://arxiv.org/abs/1711.00572)
-* **Chakraborty, S.**, Begg, C. B. and Shen, R. (2019+). Estimating Somatic Variant Richness in the Cancer Genome: Mining the Hidden Iceberg of Information. *Under review*.
+* **Chakraborty, S.**, Arora A., Begg, C. B. and Shen, R. (2019+). Estimating Somatic Variant Richness in the Cancer Genome: Mining the Hidden Iceberg of Information. *In revision*.
 * **Chakraborty, S.** and Su, Z. (2019+). A comprehensive Bayesian framework for envelope models. *Under review*.
 * **Chakraborty, S.** and Wong, S. W. (2019+).  Bayesian analysis of coupled cellular and nuclear trajectories for cell migration. *Under review*.
 * **Chakraborty, S.** and Wong, S. W. On the circular correlation coefficients for bivariate von Mises distributions on a torus. [arXiv.](https://arxiv.org/abs/1804.08553)
