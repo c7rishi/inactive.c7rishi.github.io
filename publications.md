@@ -14,6 +14,8 @@ title: Publications
 * **Chakraborty, S.**, Arora A., Begg, C. B. and Shen, R. (2019+). Estimating Somatic Variant Richness in the Cancer Genome: Mining the Hidden Iceberg of Information. *In revision*.
 * **Chakraborty, S.** and Su, Z. (2019+). A comprehensive Bayesian framework for envelope models. *Under review*.
 * **Chakraborty, S.** and Wong, S. W. (2019+).  Bayesian analysis of coupled cellular and nuclear trajectories for cell migration. *Under review*.
+* **Chakraborty, S.**, Begg, C. B., and Shen, R. (2019+). Using the “Hidden” Genome to Improve
+  Classification of Cancer Types. *Submitted.*
 * **Chakraborty, S.** and Wong, S. W. On the circular correlation coefficients for bivariate von Mises distributions on a torus. [arXiv.](https://arxiv.org/abs/1804.08553)
 
 
@@ -27,6 +29,7 @@ title: Publications
 * Vaziri, S., Awan, O., Porche, K., Scott, K., Sacks, P., Dru, A. B., **Chakraborty, S.**, Khare, K., Hoh, B., and Rahman, M. (2019). Reimbursement Patterns for Neurosurgery: Analysis of the NERVES Survey Results from 2011-2016.  *Clinical Neurology and Neurosurgery*, p.105406.
 * Barnard, A. M., Wilcox, R., Forbes, S.C., Daniels, M. J., **Chakraborty, S.**, Lott, D., J., Senesac, C. R., Arora, H., Sweeny, L., Walter, G. H., and Vandenborne, K. H. E. (2019). MR biomarkers and predictive relationships to clinical function over 48 months in Duchenne muscular dystrophy.  *To appear in  Neurology*.
 * Rooney, W. D., Berlow, Y. A., Triplett, W. T., Forbes, S. C., Willcocks, R. J., Wang, D, Arora, H, Senesac, C, Lott, D. J., Finkel, R.,  Russman, B. S., Finanger, E. L., **Chakraborty, S.**, O’Brien, E, Moloney, B, Barnard, A, Sweeney, H. L,  PhD, Daniels, M. J., Walter, G. A., Vandenborne, K. (2019+). Modeling Disease Trajectory in Duchenne Muscular Dystrophy. *In revision*.
+* Cassidy, D. J.,  McKinley, S. K., **Chakraborty, S.**,  Mansur A., Hamdi I.,  Mullen, J, Petrusa, E., Phitayakorn R., Gee, D. (2019+). Feasibility and Benefits of a Peer-Led ABSITE Review Course. *Submitted.*
 
 
 
