@@ -18,7 +18,7 @@ title: Publications
   Classification of Cancer Types. *Submitted.*
 * **Chakraborty, S.** and Wong, S. W. On the circular correlation coefficients for bivariate von Mises distributions on a torus. [arXiv.](https://arxiv.org/abs/1804.08553)
 * Lee, M., **Chakraborty, S.**, and Su, Z. (2019+). A Bayesian approach to envelope quantile regression. *Manuscript in preparation.* 
-* **Chakraborty, S.**, Bhattacharya, B., and Khare, K. (2019+). Estimating accuracy of MCMC standard error: a central limit theorem for batch means estimator. **Manuscript in preparation.**
+* **Chakraborty, S.**, Bhattacharya, B., and Khare, K. (2019+). Estimating accuracy of MCMC standard error: a central limit theorem for batch means estimator. *Manuscript in preparation.*
 
 
 ## Computational Research
