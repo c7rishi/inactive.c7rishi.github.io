@@ -13,4 +13,4 @@ Contact: chakrabs@mskcc.org
 
 
 
-[Publications](publications.md)
+[Publications](publications.md) [CV](CV2019.pdf)
